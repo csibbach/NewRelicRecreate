@@ -1,0 +1,7 @@
+eventlet==0.25.2
+Flask==1.1.1
+Flask-Cors==3.0.7
+Flask-Injector==0.12.0
+Flask-SocketIO==4.2.1
+newrelic==5.20.1.150
+
